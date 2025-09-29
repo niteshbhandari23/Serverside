@@ -1,4 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
+# Ex.05 Design a Website for Calculating Body Mass Index (BMI)
 ## Date:27/09/2025
 
 ## AIM:
